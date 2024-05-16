@@ -1,2 +1,1 @@
-# smartcode_admin
-Smartcode.az Admin
+# Smartcode Admin
